@@ -57,7 +57,7 @@ footer {
   color: #fff;
   display: flex;
   justify-content: center;
-  max-width: 50%;
+  width: 50%;
 }
 
 .intro {
@@ -93,6 +93,7 @@ footer {
     display: block;
     margin: 0 auto;
     padding: 15px;
+    width: 70%;
   }
   .crochet-image {
     display: none;
