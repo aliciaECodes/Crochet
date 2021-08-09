@@ -72,7 +72,7 @@ footer {
 }
 
 .crochet-image {
-  width: 200;
+  max-height: 100;
   border-radius: 5px;
 }
 
